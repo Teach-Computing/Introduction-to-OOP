@@ -1,7 +1,5 @@
 ﻿using System;
 
-
-
 class Car
 {
     // Public variables (fields)
